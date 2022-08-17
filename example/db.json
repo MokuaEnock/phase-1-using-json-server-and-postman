@@ -9,6 +9,21 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Mokua sees Backend",
+      "content": "Mokua is happy to see backend code.",
+      "id": 4
+    },
+    {
+      "title": "Mokua is traumatized",
+      "content": "After Mokua saw backend code he became traumatized.",
+      "id": 5
     }
   ]
 }
